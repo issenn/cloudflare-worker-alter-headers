@@ -1,0 +1,8 @@
+name = "alter-headers"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = "clash.issenn.ml/*"
+zone_id = ""
+compatibility_date = "2021-10-28"
